@@ -1,0 +1,22 @@
+
+.container {
+    height: 200px;
+    width: 200px;
+    border: 3px solid magenta;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px auto;
+}
+
+.percent {
+    margin: 0px auto;
+    margin-bottom: 2.5px;
+    font-size: 2.5rem;
+}
+
+.completed {
+    margin: 0px auto;
+}

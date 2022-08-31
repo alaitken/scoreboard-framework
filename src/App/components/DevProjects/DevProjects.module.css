@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: stretch;
+    flex-grow: 1;
+    margin-left: 15px;
+}
+
+.devProjectsContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    max-width: 1080px;
+}
+
+.text {
+    margin: 0px auto;
+    margin-bottom: 10px;
+}
+
+.hr {
+    width: 90%;
+    margin-bottom: 20px;
+}
